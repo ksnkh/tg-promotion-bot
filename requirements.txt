@@ -1,0 +1,4 @@
+telebot
+schedule
+gspread
+oauth2client
